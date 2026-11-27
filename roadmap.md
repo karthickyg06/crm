@@ -1,0 +1,3 @@
+- [ ] Build shared Yaglob CRM shell, navigation, reusable KPI cards, tables, and dialogs.
+- [ ] Add dashboard, leads, customers, deals, and invoices screens with responsive mock-data interactions.
+- [ ] Update semantic design tokens and route metadata; verify routes, preview, and tests.
